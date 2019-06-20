@@ -1,4 +1,4 @@
-# Chicago-business-prediction
+# Chicago-business-survival-predictor
 
 Implement a machine learning pipeline to priorize the business licenses that are likely to die in 2 years in Chicago.
 
